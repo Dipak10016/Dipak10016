@@ -9,7 +9,7 @@
 
 🌟 **About Me**
 
-- 🎓 Pre-final year B.E. (AI & ML) student at SIES GST with a CGPA of **8.7**
+- 🎓 final year B.E. (AI & ML) student at SIES GST with a CGPA of **8.89**
 - 🔭 Currently working on **QUICK_SCAN** – an AI-driven productivity tool
 - 📚 Passionate about **problem-solving**, **DSA**, and building **scalable web applications**
 - 🌱 Exploring **GoLang**, **AI/ML**, **Cloud (AWS)**, and **System Design**
